@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 ok
+=======
+yes
+>>>>>>> 804cf14c0b123efa14d12717462d14b0febf29c1
